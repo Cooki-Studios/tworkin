@@ -1,7 +1,7 @@
 # Cooki Studios' TWORKIN
 Networking made simple. Yeah I might change the name.<br>
 <br>
-Hit the road, Map:
+Roadmap:
 - [ ] [cookistudios.com/tworkin](cookistudios.com/tworkin)
   - [ ] Main Page
   - [ ] Links to this repo
@@ -11,4 +11,6 @@ Hit the road, Map:
 - [ ] Unreal Engine
 - [ ] Unity
 - [ ] Web
+  - [ ] LAN
+  - [ ] Wireless
 - [ ] Godot
